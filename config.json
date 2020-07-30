@@ -1,0 +1,20 @@
+{
+  "params": {
+    "local_server" : "True",
+    "local_uri" : "",
+    "prod_uri" : "",
+    "fb_url" : "",
+    "tw_url" : "",
+    "gh_url" : "",
+    "blog_name" : "Myblog",
+    "gmail_user" : "",
+    "gmail_password" : "",
+    "about_text" : "Hello, My self  I created this programing blog",
+    "no_of_posts" : 5,
+    "admin_user" : "",
+    "admin_password" : "",
+    "upload_location" : ""
+
+  }
+
+}
